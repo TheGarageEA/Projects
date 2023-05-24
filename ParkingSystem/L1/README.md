@@ -14,9 +14,15 @@ An empty parking slot will light the green LED light while an occupied one will 
 - 12 M-M jumper wires
 - 1 USB cable
 - 1 Passive Buzzer 
-- **Software**: Arduino IDE, already installed
+- Software: Arduino IDE, already installed
 
-### Wiring the Components
+### Overview
+- **Step 1:** Wire the components  
+- **Step 2:** Download the code 
+- **Step 3:** Connect the board in the IDE
+- **Step 4:** Complete the code
+
+### Instructions
 1. Mount one jumper wire to a negative marked (-) end column and connect the free end to the GND pin on the Arduino uno.  The whole end column is now connected to GND.
 
 2. Mount the ultrasonic sensor to the breadboard. Ensure the pins take up one column. Add 4 jumper wires to the breadboard, one for each of the ultrasonic pins and in the same row as the pin
